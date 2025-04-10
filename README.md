@@ -1,4 +1,4 @@
-# Code Mentor Supervisor
+# Code Mentor - LangGraph Supervisor Agent
 
 A LangGraph-powered application designed to assist programming students through a supervisor-agent architecture that provides guidance without revealing complete solutions.
 
