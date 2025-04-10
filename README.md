@@ -55,7 +55,7 @@ The Code Mentor Supervisor is an intelligent tutoring system that uses a multi-a
 
 ### Test run with LangGraph CLI & LangSmith
 
-Before you are ready to run the application, you can test it with the LangGraph CLI using LangSmith:
+Before you are ready to run the application, you need to create a LangSmith account. Then you can test it with the LangGraph CLI using LangSmith:
 
 ```bash
 $ langgraph dev
@@ -65,7 +65,7 @@ This will start a server with the agent defined in `langgraph.json`.
 
 ## Configuration
 
-The application can be configured through environment variables or through the `RunnableConfig` parameter:
+The application can be configured through environment variables or through the `RunnableConfig` parameter in configuration.py OR within LangSmith:
 
 - `MODEL_PROVIDER`: Provider of the LLM (default: "openai")
 - `MODEL`: Name of the LLM to use (default: "gpt-4o-mini")
