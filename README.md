@@ -20,7 +20,7 @@ The Code Mentor Supervisor is an intelligent tutoring system that uses a multi-a
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.11+
 - Dependencies listed in `requirements.txt`
 - OpenAI API key or compatible LLM provider
 - By default uses GPT-4o-mini for low cost
