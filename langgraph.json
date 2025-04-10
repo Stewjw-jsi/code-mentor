@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "code_mentor_supervisor": "./src/code_mentor_supervisor/agent.py:app"
+    },
+    "env": "./.env"
+  }
